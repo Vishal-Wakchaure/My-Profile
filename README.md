@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="mailto:wakchaurev00@gmail.com"><img src="https://img.shields.io/badge/Email-wakchaurev00@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Gavit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Vishal%20Wakchaure-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Mobile-7841016663-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
