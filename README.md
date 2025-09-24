@@ -24,12 +24,12 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AashishGavit&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashishGavit&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalWakchaure&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalWakchaure&theme=tokyonight" height="165"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AashishGavit&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalWakchaure&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AashishGavit)
@@ -46,14 +46,6 @@
 💡 Built multiple **real-life management systems** (Village Worker, Inventory, Library)  
 
 ---
-
-## 🏅 HackerRank Badges & Ranks  
-
-<p align="center">
-  <a href="https://www.hackerrank.com/aashishgavit29">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-Gold%20(3⭐)-yellow?style=for-the-badge&logo=hackerrank"/>
@@ -77,8 +69,8 @@
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="mailto:aashishgavit29@gmail.com"><img src="https://img.shields.io/badge/Email-aashishgavit29@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/aashish-gavit-337184137"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Gavit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <img src="https://img.shields.io/badge/Mobile-8381006885-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
+  <a href="mailto:wakchaurev00@gmail.com"><img src="https://img.shields.io/badge/Email-wakchaurev00@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Aashish%20Gavit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/Mobile-7841016663-brightgreen?style=for-the-badge&logo=phone&logoColor=white"/>  
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
